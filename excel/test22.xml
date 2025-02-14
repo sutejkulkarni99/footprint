@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<CableList>
+    <Cable Name="testcable_BAQQ2222">
+        <Connectors/>
+        <FromTo/>
+    </Cable>
+</CableList>

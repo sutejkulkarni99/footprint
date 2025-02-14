@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<CableList>
+    <Cable Name="testcable_BAQQ2222">
+        <Connectors>
+            <Connector Name="Übergabestecker D-SUB 37 Pin" ConName="Übergabestecker D-SUB 37 Pin Type" ConID="Übergabestecker D-SUB 37 PinID">
+                <Pins>0</Pins>
+            </Connector>
+            <Connector Name="Headunit NTG5.5" ConName="Headunit NTG5.5 Type" ConID="Headunit NTG5.5ID">
+                <Pins>4</Pins>
+            </Connector>
+        </Connectors>
+        <FromTo/>
+    </Cable>
+</CableList>

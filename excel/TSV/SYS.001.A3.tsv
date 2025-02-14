@@ -1,0 +1,69 @@
+Übergabestecker D-SUB 37 Pin	Unnamed: 1	Unnamed: 2	Headunit NTG5.5	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8
+AWG24-20 Male (Kontakt gedreht) 			Nr.: SYS.001.A080				Hybrid Stecker 40+4 (A001 545 15 30)	
+			Length [mm]: 800 mm				+MOST	
+Pin		Signal	d [mm²]	Feature	Color		Pin	Contact
+01		Cl. 30	0.5	Einzelader	rt		A-15	A014 545 11 26
+02		Cl. 30	0.5	Einzelader	rt			
+20		Cl. 31	0.5	Einzelader	sw		A-12	A014 545 11 26
+21		Cl. 31	0.5	Einzelader	sw			
+04		B-06 (CAN1 Low (HU CAN Low))	0.35	twisted	gn		B-06	A016 545 41 26
+23		B-12 (CAN1 High (HU CAN High))	0.35		ge		B-12	A016 545 41 26
+06		C-03 (CAN2 Low (HMI/Body CAN Low))	0.35	twisted	gn		C-03	A016 545 41 26
+25		C-09 (CAN2 High (HMI/Body CAN High))	0.35		bl		C-09	A016 545 41 26
+08		CAN3 LOW (Body/Chassis2)						
+27		CAN3 HIGH (Body/Chassis2)						
+13		C-01 (Fan Control)	0.35	twisted	gr		C-01	A016 545 41 26
+32		C-02 (Fan Diag)	0.35		ws		C-02	A016 545 41 26
+17		B-04 (Mic Out+)	0.35	twisted	bn		B-04	A016 545 41 26
+36		B-10 (Mic Out-)	0.35		ws		B-10	A016 545 41 26
+18		B-03 reserved (Audio Bus)	0.35	Einzelader	sw		B-03	A016 545 41 27
+37		B-09 reserved (Audio Bus)	0.35	Einzelader	ws/bn		B-09	A016 545 41 28
+19		B-11 (Multimedia Wakeup / USB_Vcc)	0.35	Einzelader	li/sw		B-11	A016 545 41 29
+03		B-05 (Hardware Mute)	0.35	Einzelader	bn		B-05	A016 545 41 30
+15		A-11 (Cradle/Compensator WakeUp)	0.35	Einzelader	gn		A-11	A014 545 11 26
+22		A-16 (El. MOST WakeUp, El. Control Line)	0.35	Einzelader	ge		A-16	A014 545 11 26
+34		C-04 n.c.	0.35	Einzelader	gn/sw		C-04	A014 545 11 26
+09		FU-09 (Multimedia Wakeup / USB_Vcc)						
+24		FU-16 reserve						
+28		E-Call Speaker -  (LIN2)*						
+30		E-Call Speaker +  (LIN3)*						
+10		CAN4 Low(Chassis/Chassis1/Periphery)						
+29		CAN4 High(Chassis/Chassis1/Periphery)						
+12		CAN5 Low(Diag)						
+31		CAN5 High(Diag)						
+14		CAN6 Low(Hybrid)						
+33		CAN6 High(Hybrid)						
+16		FlexRay Low (SCCM) (BM_1)						
+35		FlexRay High (SCCM) (BP_1)						
+07		KG-Weckleitung						
+26		C-10 n.c.  (auf Hutschiene vertauscht!!)	0.35	twisted	bl/ws		C-10	A016 545 41 26
+11		C-08 n.c.  (auf Hutschiene vertauscht!!)	0.35		or/ws		C-08	A016 545 41 26
+05		LIN1  (NTG5.5 : Hermes)						
+HU-SOUND								
+Übergabestecker D-SUB 25 Pin (Kontakt gedreht)							Hybrid Stecker 40+4 (A001 545 15 30)	
+Pin		Signal	d [mm²]	Feature	Color		Pin	Contact
+01		A-01 (RR+)	0.35	Einzelader	bl		A-01	A014 545 11 26
+14		A-05 (RR-)	0.35	Einzelader	ws		A-05	A014 545 11 26
+02		A-04 (RL+)	0.35	Einzelader	gr		A-04	A014 545 11 26
+15		A-08 (RL-)	0.35	Einzelader	ws		A-08	A014 545 11 26
+03		A-02 (FR+)	0.35	Einzelader	or		A-02	A014 545 11 26
+16		A-06 (FR-)	0.35	Einzelader	or/ws		A-06	A014 545 11 26
+04		A-03 (FL+)	0.35	Einzelader	li		A-03	A014 545 11 26
+17		A-07 (FL-)	0.35	Einzelader	ws		A-07	A014 545 11 26
+								
+06		B-01 (Mic1 in)	0.35	twisted	or/gn		B-01	A016 545 41 26
+19		B-07 (Mic GND)	0.35		or/bn		B-07	A016 545 41 26
+07		B-08 (Mic2 in)	0.35	twisted	ws		B-08	A016 545 41 26
+20		B-02 (Mic Shield)	0.35		bn/ws		B-02	A016 545 41 26
+								
+08		A-09 reserved (Speaker SR+) (AUX-01)	0.35	Einzelader	rs		A-09	A016 545 41 26
+09		A-13 reserved (Speaker SR-) (AUX-02)	0.35	Einzelader	rs/sw		A-13	A016 545 41 26
+21		A-10 reserved (Speaker SL+) (AUX-03)	0.35	Einzelader	bl		A-10	A016 545 41 26
+22		A-14 reserved (Speaker SL-) (AUX-04)	0.35	Einzelader	bl/sw		A-14	A016 545 41 26
+								
+12		C-05 (Ethernet Tx+) (PCB 01)	0.35	twisted	gr/ws		C-05	A016 545 41 26
+24		C-06 (Ethernet Tx-) (PCB-02)	0.35		gr/rt		C-06	A016 545 41 26
+13		C-11 (Ethernet Rx+) (PCB-03)	0.35	twisted	ge/ws		C-11	A016 545 41 26
+25		C-12 (Ethernet Rx-) (PCB-04)	0.35		ge/sw		C-12	A016 545 41 26
+								
+11		C-07 (Ethernet WakeUp) (PCB-05)	0.35	Einzelader	or/rt		C-07	A016 545 41 26
